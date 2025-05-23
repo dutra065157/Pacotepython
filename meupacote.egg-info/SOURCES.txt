@@ -1,0 +1,13 @@
+README.md
+setup.py
+meupacote/__init__.py
+meupacote.egg-info/PKG-INFO
+meupacote.egg-info/SOURCES.txt
+meupacote.egg-info/dependency_links.txt
+meupacote.egg-info/top_level.txt
+meupacote/module1/__init__.py
+meupacote/module1/file1.py
+meupacote/module1/file2.py
+meupacote/module2/__init__.py
+meupacote/module2/file1.py
+meupacote/module2/file2.py
